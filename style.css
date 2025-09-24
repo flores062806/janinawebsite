@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  background-color: #EFC3CA; 
+  background-repeat: no-repeat;  
+  background-size: cover;        
+  background-attachment: fixed; 
+  background-position: center;  
+}
+.header {
+  background-color: #EFC3CA;    
+                   
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3); 
+  display: flex;             
+  justify-content: space-between; 
+  align-items: center;       
+  padding: 15px;
+ 
+}
+.imagebackground {
+position: absolute;
+  top: 160px;    
+  width: 1260px;
+}
+.headering {
+    font-size: 20px;
+      font-weight: bold;
+      color: white;
+   text-align: left;  
+  margin-top: 10px;       
+  padding-bottom: 450px;    
+  text-shadow: black ;
+}
+.pixelme {
+ position: absolute;
+  top: 1000px;   
+  right: 50px; 
+  width: 450px;
+}
+.h2 {
+ color: black;
+ position: absolute;
+  top: 1000px;    
+  width: 1260px;
+  left: 150px;
+  word-spacing: 5px;
+}
+.h3 {
+    color: black;
+ position: absolute;
+  top: 1250px;    
+  width: 1260px;
+left: 150px;
+word-spacing: 5px;
+}
+.paragraph2 {
+   color: black;
+ position: absolute;
+  top: 200px;    
+  width: 1260px;
+  left: 15px;
+  word-spacing: 5px;
+}
+.div1 {
+  background-color: lightyellow;  
+  border: 2px solid palevioletred;      
+  border-radius: 10px;            
+  padding: 15px;                
+  text-align: center;             
+  width: 60%;                    
+  margin: 20px auto;               
+  font-size: 16px;
+}
+.container {
+  display: flex;             
+  justify-content: center;    
+  gap: 20px;                 
+  margin-top: 20px;
+}
+
+.box {
+  background-color: lightyellow;
+  border: 2px solid palevioletred;     
+  border-radius: 10px;       
+  padding: 20px 40px;
+  text-align: center;
+  font-weight: bold;
+}
+.div2 {
+    background-color: lightyellow;  
+  border: 2px solid palevioletred;    
+  color: palevioletred;  
+  border-radius: 10px;            
+  padding: 15px;                
+  text-align: center;             
+  width: 60%;                    
+  margin: 20px auto;               
+  font-size: 16px;
+}
+.box2 {
+      background-color: rgb(255, 226, 153);
+  border: 2px solid palevioletred;     
+  border-radius: 10px;      
+  margin-left: 200px; 
+  margin-right: 200px;
+  padding: 20px 40px;
+  text-align: center;
+  font-weight: bold;
+}
